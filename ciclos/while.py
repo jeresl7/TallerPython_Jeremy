@@ -5,6 +5,3 @@ while i < limite:
     i+=1
 
 
-    A = 2
-
-    
